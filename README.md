@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **markCwatson/markCwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+My name is Mark Watson, and I am an Embedded Software Engineer working in Halifax, Nova Scotia, Canada. I am a licensed Professional Engineer (P.Eng.) in the province of Nova Scotia, and I have Bachelor's (B.Eng.) and Master's (M.A.Sc.) degrees in Electrical Engineering from Dalhousie University.
+
+# 🌱 I’m currently learning
+Most of my industry experience is in the field of embedded systems (mixed-language developemnt in C and java, use of FreeRTOS) on ARM Cortex and RISC-V based microcontrollers, but I am actively working to expand my programming abilities beyond embedded systems by learning other software engineering concepts like operating systems, networking, security, system design, web application development, databases, and more. I have experience with C++, Java, and python and am currently learning JavaScript and frameworks like Django, Node.js, and MongoDB for web development and pytorch for machine learning applications.
+
+# ⚡ Fun facts:
+- I have 5 children, all boys. When I started my education I had one child. By the time I finished my Master's degree I had five!
+- In 2022, I left a Ph.D. programm to focus on my family and career. I am utilizing this opportunity to dedicate myself to developing my software engineering abilities.
+- I teach at Dalhousie University in Halifax, Nova Scotia, Canada in the Department of Electrical and Computer Engineering. I have had 5 teaching positions so far and counting!
+
+# 📫 How to reach me:
+- email: markus.c.watson@gmail.com
+- LinkedIn: https://www.linkedin.com/in/markuscwatson/
