@@ -22,7 +22,7 @@ Most of my industry experience is related to embedded firmware development on AR
 I am actively working to expand my programming abilities beyond embedded systems by learning other software engineering concepts like operating systems, networking, security, system design, web application development, databases, and more. I have experience with C++, Java, and python and am currently learning JavaScript and frameworks like Django, Node.js, and MongoDB for web development and pytorch for machine learning applications.
 
 # ⚡ Fun facts:
-- I have 5 children, all boys. When I started my education, I had one child... by the time I finished my Master's degree, I had five 🧒🧒🧒🧒🧒 
+- When I started my education, I had one son. When I finished my Master's degree, I had **five** boys 🧒🧒🧒🧒🧒 
 - In 2022, I left a Ph.D. program to focus on my family and career. I am utilizing this opportunity to dedicate myself to developing my software engineering abilities.
 - I teach at Dalhousie University in Halifax, Nova Scotia, Canada in the Department of Electrical and Computer Engineering. I have had 5 teaching positions so far and counting!
 
